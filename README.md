@@ -15,3 +15,4 @@ Es gibt eine Plane unter dem Boden, welche die maximale Größe der Stadt bestim
 Drinnen werden dann vom Zentrum aus Kreise bestimmt, welche das Zentrum als Mittelpunkt und gleich steigende Radien haben. Auf diesen Kreisen wird dann eine per Seed zufällige Position ausgewählt, wenn die Position nicht zu nah an einem anderem Gebäude ist, wird dort ein Gebäude plaziert. Die Art des Gebäudes is abhängig davon wie weit weg es vom Mittelpunkt ist. Dies wird dann für die angegebene Anzahl (Gebäude Pro Kreis) wiederholt bis alle Kreise eine Position besitzen. Dazu wird dann per Seed eine zufällige Rotation des Gebäudes gewählt.
 
 KI:
+![alt text](https://github.com/Vladyslav25/Prozedurale_Generierung/blob/master/FSM_Prozeduarale%20Generierung.jpg)

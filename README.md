@@ -2,7 +2,7 @@
 
 Was habe ich gelernt:
   - Prozedurale Generierung
-  - Final State Maschine
+  - Finite-State Machines
   - ScriptabelObjects in Unity
 
 Es war Aufgabe eine prozedural Generierte Umgebung zu erschaffen, auf welcher dann eine KI mit einer Final State Maschine nachvollziehbar interagieren soll.
